@@ -1,2 +1,2 @@
 # embedded
-random excursuses  with microcontrollers
+random exersizes with microcontrollers
